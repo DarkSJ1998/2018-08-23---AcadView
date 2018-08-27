@@ -6,7 +6,7 @@ class Test
 	}
 }
 
-class q3
+class q4
 {
 	public static void main(String x[])
 	{
