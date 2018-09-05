@@ -1,3 +1,7 @@
+/*
+Q4.Study about Static blocks and push 1 example code on github.
+*/
+
 class Test
 {
 	static
