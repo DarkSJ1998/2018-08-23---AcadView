@@ -1,3 +1,7 @@
+/*
+Q3. Write a program to take an array of 10 numbers as input from the user and find the second largest element in the array.
+*/
+
 import java.util.Scanner;
 
 class q3
