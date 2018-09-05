@@ -1,3 +1,8 @@
+/*
+Q5. Write a program to take an array of 10 numbers from the user and arrange the elements in a waveform. 
+For example, if the array is {1,2,3,4,5,6,7,8,9,10} then it should become {2,1,4,3,6,5,8,7,10,9}.
+*/
+
 class q5
 {
 	public static void main(String[] x)
