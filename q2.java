@@ -1,3 +1,9 @@
+/*
+Q2. Create a class Complex with real and imaginary parts as it's data members.
+Create a member function called Display() to display the complex number properly. 
+Example : real part = 2 and imaginary part = 5, then the function should show 2+5i.
+*/
+
 class Complex
 {
 	private double real, imag;
