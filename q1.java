@@ -1,3 +1,8 @@
+/*
+Q1. Create a class Rectangle with length and breadth as it's data members.
+Create a member function called CalculateArea() which displays the area of the rectangle object.
+*/
+
 class Rectangle
 {
 	private double length, breadth, area;
